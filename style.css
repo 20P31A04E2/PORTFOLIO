@@ -5,6 +5,11 @@
     font-size: large;
 }
 
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 
 .bannerBgImage{
     height: 100vh;
