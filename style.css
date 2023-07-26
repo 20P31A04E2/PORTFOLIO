@@ -64,3 +64,7 @@ body {
 .card.mb-3{
     min-height:370px;
 }
+
+.card.mb-4{
+    min-height:500px;
+}
